@@ -1,8 +1,8 @@
 # Cybersecurity
 
 ## Resources
-Mozilla & Tactical Tech: [The Data Detox in 8 days](https://datadetox.myshadow.org/en/home) | November 2017 | Languages: English, Deutsch, Español, Français, Portugues
-Tactical Tech: [Me and my shadow training curriculum](https://myshadow.org/train) - teach others about data and privacy
+- [Mozilla](https://blog.mozilla.org/internetcitizen/2017/11/08/data-detox/) & [Tactical Tech](https://tacticaltech.org/themes/privacy/): [The Data Detox](https://datadetox.myshadow.org/en/home) | November 2017 | Languages: English, Deutsch, Español, Français, Portugues
+- [Tactical Tech](https://tacticaltech.org/themes/privacy/): [Me and my shadow training curriculum](https://myshadow.org/train) - teach others about data and privacy
 
 
 ## Presentations (slides)
